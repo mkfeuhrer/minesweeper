@@ -17,5 +17,5 @@ CSE 2nd Year
 MNNIT Allahabad
 
 
-![ScreenShot](https://raw.github.com/{mkfeuhrer}/{minesweeper}/{master}/{ minesweeper/images/Screenshot_2017-02-07-17-43-23-972_com.droid_rush.avishkar.minesweeper_new.png
+![ScreenShot](https://raw.github.com/{mkfeuhrer}/{minesweeper}/{master}/{images/Screenshot_2017-02-07-17-43-23-972_com.droid_rush.avishkar.minesweeper_new.png
 })

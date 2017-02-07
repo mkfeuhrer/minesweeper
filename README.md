@@ -1,4 +1,4 @@
-# minesweeper
+# MineSweep
 This is a simple minesweeper game app built with android studio. 
 The project is built with the help of internet sources too , since it's a learning experience.
 This is my first application in android devolopement.
@@ -15,3 +15,7 @@ Thank You,
 Mohit Khare
 CSE 2nd Year
 MNNIT Allahabad
+
+
+![ScreenShot](https://raw.github.com/{mkfeuhrer}/{minesweeper}/{master}/{ minesweeper/images/Screenshot_2017-02-07-17-43-23-972_com.droid_rush.avishkar.minesweeper_new.png
+})

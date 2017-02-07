@@ -18,3 +18,6 @@ MNNIT Allahabad
 
 
 ![Screenshot](https://github.com/mkfeuhrer/minesweeper/blob/master/images/Screenshot_2017-02-07-17-43-23-972_com.droid_rush.avishkar.minesweeper_new.png)
+
+
+![Screenshot](https://github.com/mkfeuhrer/minesweeper/blob/master/images/Screenshot_2017-02-07-17-43-50-315_com.droid_rush.avishkar.minesweeper_new.png)

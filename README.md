@@ -5,16 +5,19 @@ This is my first application in android devolopement.
 Feel free to fork and add changes.
 Download the zip file - 
 1 - Open the download directory -> minesweeperavishkar -> app ->  build -> outputs -> apk -> minesweeper.apk
-Copy the apk file to your android device . Install , run and enjoy .
+Copy the apk file to your android device . Install , run and enjoy.
 2 - Run through android studio by importing the project.
 
 
 
 
-Thank You,
-Mohit Khare
-CSE 2nd Year
-MNNIT Allahabad
+Thank You,<br />
+Team Members: <br />
+Mohit Khare<br />
+Neeraj Verma<br />
+Rohan Chhabra<br />
+CSE 2nd Years<br />
+MNNIT Allahabad<br />
 
 
 ![Screenshot](https://github.com/mkfeuhrer/minesweeper/blob/master/images/Screenshot_2017-02-07-17-43-23-972_com.droid_rush.avishkar.minesweeper_new.png)

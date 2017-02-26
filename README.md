@@ -12,8 +12,11 @@ Copy the apk file to your android device . Install , run and enjoy .
 
 
 Thank You,
+Team Members: 
 Mohit Khare
-CSE 2nd Year
+Neeraj Verma
+Rohan Chhabra
+CSE 2nd Years
 MNNIT Allahabad
 
 

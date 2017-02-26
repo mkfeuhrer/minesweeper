@@ -11,13 +11,13 @@ Copy the apk file to your android device . Install , run and enjoy.
 
 
 
-Thank You,
-Team Members: 
-Mohit Khare
-Neeraj Verma
-Rohan Chhabra
-CSE 2nd Years
-MNNIT Allahabad
+Thank You,<br />
+Team Members: <br />
+Mohit Khare<br />
+Neeraj Verma<br />
+Rohan Chhabra<br />
+CSE 2nd Years<br />
+MNNIT Allahabad<br />
 
 
 ![Screenshot](https://github.com/mkfeuhrer/minesweeper/blob/master/images/Screenshot_2017-02-07-17-43-23-972_com.droid_rush.avishkar.minesweeper_new.png)

@@ -13,7 +13,7 @@ Copy the apk file to your android device . Install , run and enjoy.
 
 Thank You,<br />
 Team Members: <br />
-Mohit Khare<br />
+Mohit Khare - mohitfeuhrer@gmail.com<br />
 Neeraj Verma<br />
 Rohan Chhabra<br />
 CSE 2nd Years<br />
